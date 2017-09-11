@@ -1,6 +1,6 @@
 # My Resume
 
-[html.love](http://html.love)
+[View](http://weathfold.github.io/Resume)
 
 ## Introduction
 
